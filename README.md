@@ -1,10 +1,12 @@
 <div align="center">
-  <!-- Top Animated Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Krishan%20Prageeth&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=19" width="100%" alt="Header Banner" />
+  <!-- Custom Profile Banner -->
+  <img src="./banner.jpg" width="100%" alt="Krishan Prageeth - Associate Software Engineer" />
+
+  <br/><br/>
 
   <!-- Dynamic Typing SVG -->
   <a href="https://github.com/krishanprageeth0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Krishan+Prageeth+👋;Software+Engineer+🎓;Full-Stack+%26+WordPress+Developer+💻;Building+High-Converting+Web+Solutions+🚀;React,+TypeScript+%26+Modern+APIs+⚡;Turning+Ideas+into+Scalable+Digital+Products+✨;Open+for+Freelance+%26+Contract+Projects+🤝" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Krishan+Prageeth+👋;Associate+Software+Engineer+💼;Full-Stack+%26+Cloud+Solutions+🚀;React,+Next.js,+Node.js+%26+MongoDB+⚡;Turning+ideas+into+clean,+scalable+web+apps+✨;Open+for+Freelance+%26+Engineering+Roles+🤝" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -47,18 +49,16 @@
 
 ### 👨‍💻 About Me & What Drives Me
 
-I am a results-driven **Software Engineer** and **Full-Stack Web Developer** committed to building production-ready web applications, bespoke e-commerce platforms, and seamless user experiences. With hands-on expertise spanning modern frontend frameworks, scalable backend architectures, and CMS optimization, I bridge business objectives with clean, maintainable code.
+I am a results-driven **Associate Software Engineer** and **Full-Stack Developer** committed to turning ideas into clean, scalable web apps and high-performance digital solutions. With hands-on expertise spanning modern frontend frameworks, scalable cloud architectures, and robust backend engineering, I help businesses and clients build exceptional web products.
 
 ```yaml
 Developer Profile:
   Name: Krishan Prageeth
-  Qualification: Software Engineering Graduate 🎓
-  Role: Software Engineer & Full-Stack Developer
-  Primary Stack: React, Next.js, TypeScript, Node.js, Express, WordPress
-  Domain Experience: Full-Stack Web Apps, E-Commerce, Custom UI/UX, AI Integrations
-  Workflow: Clean Architecture | Git Flow | Agile Delivery | SEO Optimized
-  Current Focus: Scalable Cloud Architecture & AI-Driven Digital Experiences
-  Availability: Freelance, Remote Client Work & Full-Time Engineering Roles
+  Role: Associate Software Engineer
+  Tagline: "Code. Learn. Build. Repeat. </> | Turning ideas into clean, scalable web apps"
+  Core Stack: React.js, Next.js, Node.js, MongoDB, TypeScript, AWS, Docker
+  Architecture: Clean Architecture | Git Flow | Agile Delivery | Cloud Ready
+  Availability: Freelance Collaborations, Remote Roles & Engineering Opportunities
   Direct Contact: Krishanprageeth87@gmail.com
 ```
 
@@ -117,14 +117,14 @@ flowchart LR
 
 #### ⚙️ Backend, Databases & CMS
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,mongodb,firebase,wordpress&perline=8" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,php,laravel,wordpress&perline=8" alt="Backend" />
 </a>
 
 <br/>
 
-#### 🧰 Tools, DevOps & Design
+#### 🧰 Tools, Cloud & DevOps
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,npm&perline=8" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,docker,postman,vercel&perline=8" alt="Tools" />
 </a>
 
 </div>
