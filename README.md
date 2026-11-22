@@ -37,12 +37,13 @@
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### ⚡ Highlights & Key Capabilities
 
 <div align="center">
-  <a href="https://github.com/krishanprageeth0">
-    <img src="https://github-profile-trophy-nu.vercel.app/?username=krishanprageeth0&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Role-Associate%20Software%20Engineer-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Projects-27%2B%20Repositories-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20Cloud-34D399?style=for-the-badge&logo=react&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Client%20Ready-Fast%20%26%20Scalable%20Delivery-FBBF24?style=for-the-badge&logo=lightning&logoColor=white" alt="Delivery" />
 </div>
 
 ---
