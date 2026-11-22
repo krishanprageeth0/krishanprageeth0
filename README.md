@@ -1,60 +1,106 @@
 <div align="center">
   <!-- Top Animated Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=200&section=header&text=Krishan%20Prageeth&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Undergraduate&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=220&section=header&text=Krishan%20Prageeth&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=19" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing SVG -->
   <a href="https://github.com/krishanprageeth0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Krishan+Prageeth+👋;Full-Stack+%26+WordPress+Developer+💻;Building+Fast,+Scalable+Web+Applications+🚀;Crafting+Pixel-Perfect+User+Experiences+✨;Let's+build+your+next+idea+together!+🤝" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Krishan+Prageeth+👋;Software+Engineer+🎓;Full-Stack+%26+WordPress+Developer+💻;Building+High-Converting+Web+Solutions+🚀;React,+TypeScript+%26+Modern+APIs+⚡;Turning+Ideas+into+Scalable+Digital+Products+✨;Open+for+Freelance+%26+Contract+Projects+🤝" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Profile Visitor Counter & Badges -->
+  <!-- Profile Visitor Counter & Quick Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=krishanprageeth0&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-10B981?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-10B981?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-F59E0B?style=for-the-badge" alt="Location" />
   </p>
 
-  <!-- Connect & Social Buttons -->
+  <!-- Connect & Client Action Buttons -->
   <p align="center">
     <a href="https://krishanprageeth0.github.io/portfolioknexa/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Portfolio-Knexa-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:Krishanprageeth87@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://linkedin.com/in/krishanprageeth" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://wa.me/?text=Hi%20Krishan,%20I'd%20like%20to%20discuss%20a%20project!" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-Chat%20Direct-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🏆 GitHub Achievements & Trophies
 
-I am a passionate **Software Engineering Undergraduate** and **Full-Stack Developer** who loves crafting robust web solutions that bridge clean code, high performance, and intuitive user experiences. Whether developing custom web apps from scratch, optimizing e-commerce workflows, or integrating intelligent automation, I bring ideas to life with precision.
+<div align="center">
+  <a href="https://github.com/krishanprageeth0">
+    <img src="https://github-profile-trophy.vercel.app/?username=krishanprageeth0&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+### 👨‍💻 About Me & What Drives Me
+
+I am a results-driven **Software Engineer** and **Full-Stack Web Developer** committed to building production-ready web applications, bespoke e-commerce platforms, and seamless user experiences. With hands-on expertise spanning modern frontend frameworks, scalable backend architectures, and CMS optimization, I bridge business objectives with clean, maintainable code.
 
 ```yaml
 Developer Profile:
   Name: Krishan Prageeth
-  Focus: Modern Web Apps, Full-Stack Architecture, WordPress Solutions, AI Integrations
-  Philosophy: "Build clean, deliver fast, scale effortlessly."
-  Availability: Freelance Projects, Remote Collaborations & Full-Time Roles
-  Email: Krishanprageeth87@gmail.com
+  Qualification: Software Engineering Graduate 🎓
+  Role: Software Engineer & Full-Stack Developer
+  Primary Stack: React, Next.js, TypeScript, Node.js, Express, WordPress
+  Domain Experience: Full-Stack Web Apps, E-Commerce, Custom UI/UX, AI Integrations
+  Workflow: Clean Architecture | Git Flow | Agile Delivery | SEO Optimized
+  Current Focus: Scalable Cloud Architecture & AI-Driven Digital Experiences
+  Availability: Freelance, Remote Client Work & Full-Time Engineering Roles
+  Direct Contact: Krishanprageeth87@gmail.com
 ```
 
 ---
 
-### 💼 Services I Offer (What Clients Look For)
+### 💼 Services I Deliver (Why Clients Choose Me)
 
-| Service | What I Deliver |
-| :--- | :--- |
-| 🌐 **Full-Stack Web Development** | High-speed, responsive, SEO-optimized web applications with clean architecture (React, Next.js, Node.js). |
-| 🛍️ **WordPress & E-Commerce** | Custom WooCommerce stores, tailor-made themes, payment gateway setups, and blazing-fast site speed. |
-| 🎨 **UI/UX to Code Conversion** | Pixel-perfect implementations from Figma/Adobe XD into clean, responsive HTML/CSS/Tailwind code. |
-| ⚡ **API & AI Integrations** | Custom REST API design, external service integrations, and modern AI automation pipelines. |
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🌐 Full-Stack Web Development</h4>
+      <p>Custom, scalable web platforms built with <b>React, Next.js, and Node.js</b>. Clean code structure, mobile responsiveness, and ultra-fast load times.</p>
+    </td>
+    <td width="50%">
+      <h4>🛍️ WordPress & E-Commerce Solutions</h4>
+      <p>Tailor-made WordPress & WooCommerce stores, custom theme styling, seamless payment gateway integrations, and speed optimization.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎨 UI/UX to Pixel-Perfect Code</h4>
+      <p>Accurate translation of <b>Figma / Adobe XD</b> designs into responsive, modern Tailwind CSS or styled components with smooth micro-interactions.</p>
+    </td>
+    <td width="50%">
+      <h4>⚡ API & AI Integrations</h4>
+      <p>Robust RESTful API design, database modeling (SQL / NoSQL), third-party SaaS integrations, and modern AI capability workflows.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🔄 My Client Collaboration Process
+
+```mermaid
+flowchart LR
+    A["💡 1. Discovery & Planning"] --> B["🎨 2. UI/UX & Wireframing"]
+    B --> C["💻 3. Agile Development"]
+    C --> D["🧪 4. Testing & Review"]
+    D --> E["🚀 5. Deployment & Support"]
+    classDef default fill:#1e1e2e,stroke:#38bdf8,stroke-width:2px,color:#fff;
+```
 
 ---
 
@@ -62,7 +108,7 @@ Developer Profile:
 
 <div align="center">
 
-#### 💻 Languages & Frontend Engineering
+#### 💻 Frontend Engineering & Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,bootstrap&perline=8" alt="Frontend" />
 </a>
@@ -76,7 +122,7 @@ Developer Profile:
 
 <br/>
 
-#### 🧰 Tools & DevOps
+#### 🧰 Tools, DevOps & Design
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify,npm&perline=8" alt="Tools" />
 </a>
@@ -91,9 +137,9 @@ Developer Profile:
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💼 Portfolio Knexa</h3>
-      <p align="center">Personal & agency developer portfolio designed to showcase projects, client services, and interactive UI experiences.</p>
+      <p align="center">Modern agency & developer portfolio featuring clean aesthetic architecture, smooth animations, and interactive project showcases.</p>
       <p align="center">
-        <b>Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Responsive UI</code>
+        <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>UI/UX</code>
       </p>
       <p align="center">
         <a href="https://krishanprageeth0.github.io/portfolioknexa/" target="_blank">🌐 <b>Live Demo</b></a> &nbsp;•&nbsp; 
@@ -102,9 +148,9 @@ Developer Profile:
     </td>
     <td width="50%" valign="top">
       <h3 align="center">✈️ Aether Travels</h3>
-      <p align="center">A modern, responsive tourism and travel web platform built for seamless destination browsing and tour inquiry flows.</p>
+      <p align="center">An immersive tourism & travel discovery hub built with intuitive tour package showcases, responsive layouts, and booking inquiry workflows.</p>
       <p align="center">
-        <b>Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Modern Layout</code>
+        <b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Mobile-First</code>
       </p>
       <p align="center">
         <a href="https://github.com/krishanprageeth0/AETHER-TRAVELS" target="_blank">💻 <b>GitHub Repository</b></a>
@@ -114,9 +160,9 @@ Developer Profile:
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">💍 Knexa Digital Invitations</h3>
-      <p align="center">Modern interactive digital wedding invitation web app with dynamic animations, RSVP layout, and sleek design elements.</p>
+      <p align="center">Modern interactive digital wedding invitation web app with dynamic typography, responsive layouts, and elegant RSVP flows.</p>
       <p align="center">
-        <b>Stack:</b> <code>TypeScript</code> <code>HTML5</code> <code>CSS3</code> <code>Interactive UI</code>
+        <b>Tech Stack:</b> <code>TypeScript</code> <code>HTML5</code> <code>CSS3</code> <code>Modern UX</code>
       </p>
       <p align="center">
         <a href="https://github.com/krishanprageeth0/wedding-invitation-knexa" target="_blank">💻 <b>GitHub Repository</b></a>
@@ -124,9 +170,9 @@ Developer Profile:
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎨 Atelier Sens</h3>
-      <p align="center">A high-fashion, aesthetic styling platform showcasing minimalist responsive design principles and creative typography.</p>
+      <p align="center">An elegant styling and creative brand showcase platform emphasizing minimalist layout systems and cross-device responsiveness.</p>
       <p align="center">
-        <b>Stack:</b> <code>CSS3</code> <code>Responsive Design</code> <code>Flex/Grid</code>
+        <b>Tech Stack:</b> <code>CSS3 Grid/Flex</code> <code>Responsive Design</code>
       </p>
       <p align="center">
         <a href="https://github.com/krishanprageeth0/ATELIER-SENS" target="_blank">💻 <b>GitHub Repository</b></a>
@@ -137,7 +183,14 @@ Developer Profile:
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+### 📈 GitHub Analytics & Daily Momentum
+
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanprageeth0&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Krishan's Activity Graph" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishanprageeth0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Krishan's GitHub Stats" />
@@ -152,17 +205,25 @@ Developer Profile:
 
 ---
 
-### 🤝 Have a Project in Mind? Let's Talk!
+### 💡 Daily Dev Inspiration
 
-Whether you need a brand-new website, an e-commerce platform, or a dedicated developer for your engineering team, feel free to reach out.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
 
-- 💬 **Start a conversation:** Drop a message to discuss your scope and timeline.
+---
+
+### 🤝 Let's Build Something Exceptional Together!
+
+Have an idea for a web application, an e-commerce platform, or a client project? Let's connect and make it a reality.
+
+- 💬 **Quick Discussion:** Reach out via Email or WhatsApp for quick project estimates.
 - 📧 **Direct Email:** [Krishanprageeth87@gmail.com](mailto:Krishanprageeth87@gmail.com)
-- 🌐 **Explore Portfolio:** [krishanprageeth0.github.io/portfolioknexa](https://krishanprageeth0.github.io/portfolioknexa/)
+- 🌐 **Explore Full Portfolio:** [krishanprageeth0.github.io/portfolioknexa](https://krishanprageeth0.github.io/portfolioknexa/)
 
 <div align="center">
   <!-- Bottom Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=120&section=footer" width="100%" alt="Footer Wave" />
   <br/>
-  <sub>⚡ Crafted with passion by Krishan Prageeth | Built to impress clients</sub>
+  <sub>⚡ Designed & Engineered with care by Krishan Prageeth | Built for impact</sub>
 </div>
