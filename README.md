@@ -20,6 +20,9 @@
 
   <!-- Connect & Client Action Buttons -->
   <p align="center">
+    <a href="https://github.com/krishanprageeth0/krishanprageeth0/raw/main/Krishan%20Prageeth%20-%20Software%20Engineer%20CV.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-Download%20CV-6366F1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    </a>
     <a href="https://krishanprageeth0.github.io/portfolioknexa/" target="_blank">
       <img src="https://img.shields.io/badge/Live%20Portfolio-Knexa-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
@@ -218,6 +221,7 @@ flowchart LR
 
 Have an idea for a web application, an e-commerce platform, or a client project? Let's connect and make it a reality.
 
+- 📄 **Review Credentials:** [View / Download Krishan Prageeth CV (PDF)](https://github.com/krishanprageeth0/krishanprageeth0/raw/main/Krishan%20Prageeth%20-%20Software%20Engineer%20CV.pdf)
 - 💬 **Quick Discussion:** Reach out via Email or WhatsApp for quick project estimates.
 - 📧 **Direct Email:** [Krishanprageeth87@gmail.com](mailto:Krishanprageeth87@gmail.com)
 - 🌐 **Explore Full Portfolio:** [krishanprageeth0.github.io/portfolioknexa](https://krishanprageeth0.github.io/portfolioknexa/)
