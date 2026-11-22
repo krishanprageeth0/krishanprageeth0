@@ -6,7 +6,7 @@
 
   <!-- Dynamic Typing SVG -->
   <a href="https://github.com/krishanprageeth0">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Krishan+Prageeth+👋;Associate+Software+Engineer+💼;Full-Stack+%26+Cloud+Solutions+🚀;React,+Next.js,+Node.js+%26+MongoDB+⚡;Turning+ideas+into+clean,+scalable+web+apps+✨;Open+for+Freelance+%26+Engineering+Roles+🤝" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Krishan+Prageeth;Associate+Software+Engineer;Full-Stack+and+Cloud+Developer;React,+Next.js,+Node.js+and+MongoDB;Turning+ideas+into+clean,+scalable+web+apps;Open+for+Freelance+and+Engineering+Roles" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="https://github.com/krishanprageeth0">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishanprageeth0&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-nu.vercel.app/?username=krishanprageeth0&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
   </a>
 </div>
 
